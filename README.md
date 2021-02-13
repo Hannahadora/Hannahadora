@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hannahadora
-- 👀 I’m interested in Wb development and design
+- 👀 I’m interested in Web development and design
 - 🌱 I’m currently learning Css and Javascript
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me hejimofor141@uniport.edu.ng or whatsapp on 07015458847 and chiamakahannah on twitter
