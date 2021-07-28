@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hannahadora
 - 👀 I’m interested in Web development and design
-- 🌱 I’m currently learning Css and Javascript
+- 🌱 I’m a frontend developer working with vue frameworks and Nuxtjs
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me hejimofor141@uniport.edu.ng or whatsapp on +2347015458847 and chiamakahannah on twitter
 
